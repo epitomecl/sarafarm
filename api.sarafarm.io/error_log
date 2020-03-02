@@ -1,0 +1,113 @@
+[22-Aug-2019 04:42:09 America/New_York] PHP Warning:  parse_ini_file(/home/sarapxkl/public_html/api.sarafarm.io/api/include/db.mysql.ini): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 85
+[22-Aug-2019 04:42:09 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 86
+[22-Aug-2019 04:42:09 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 392
+[22-Aug-2019 04:43:02 America/New_York] PHP Warning:  parse_ini_file(/home/sarapxkl/public_html/api.sarafarm.io/include/db.mysql.ini): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 58
+[22-Aug-2019 04:43:02 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[22-Aug-2019 04:43:02 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[22-Aug-2019 04:44:11 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[22-Aug-2019 04:44:11 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[22-Aug-2019 05:01:30 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[22-Aug-2019 05:01:30 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[22-Aug-2019 05:01:36 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[22-Aug-2019 05:01:36 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[22-Aug-2019 05:01:39 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[22-Aug-2019 05:01:39 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[22-Aug-2019 05:01:47 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[22-Aug-2019 05:01:47 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[22-Aug-2019 05:13:02 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[22-Aug-2019 05:13:02 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[22-Aug-2019 05:14:12 America/New_York] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'sarapxkl_yongin'@'localhost' to database 'sarapxkl_sarafarm' in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[22-Aug-2019 05:14:12 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[22-Aug-2019 05:18:45 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[22-Aug-2019 05:18:45 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[02-Sep-2019 10:04:58 America/New_York] PHP Warning:  parse_ini_file(/home/sarapxkl/public_html/include/db.mysql.ini): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 58
+[02-Sep-2019 10:04:58 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[02-Sep-2019 10:04:58 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[02-Sep-2019 10:07:59 America/New_York] PHP Warning:  parse_ini_file(/home/sarapxkl/public_html/include/db.mysql.ini): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 58
+[02-Sep-2019 10:07:59 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[02-Sep-2019 10:07:59 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[02-Sep-2019 10:19:28 America/New_York] PHP Warning:  parse_ini_file(/home/sarapxkl/public_html/include/db.mysql.ini): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 58
+[02-Sep-2019 10:19:28 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[02-Sep-2019 10:19:28 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[02-Sep-2019 10:22:35 America/New_York] PHP Warning:  parse_ini_file(/include/db.mysql.ini): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 58
+[02-Sep-2019 10:22:35 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 59
+[02-Sep-2019 10:22:35 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 94
+[22-Oct-2019 23:50:09 America/New_York] PHP Notice:  Undefined index: foto in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 105
+[22-Oct-2019 23:50:09 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 20
+[22-Oct-2019 23:53:38 America/New_York] PHP Notice:  Undefined index: foto in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 105
+[22-Oct-2019 23:53:38 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 20
+[23-Oct-2019 00:43:42 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 20
+[23-Oct-2019 00:43:42 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 30
+[23-Oct-2019 00:43:42 America/New_York] PHP Notice:  Undefined variable: path in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 36
+[23-Oct-2019 00:43:42 America/New_York] PHP Warning:  imagejpeg(/img/food/11111000.jpg): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 36
+[23-Oct-2019 00:43:42 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 57
+[23-Oct-2019 00:43:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php:57
+Stack trace:
+#0 /home/sarapxkl/public_html/api.sarafarm.io/index.php(106): modules\Food->doPost('upload', 11111000, Array, 'data:image/png;...')
+#1 {main}
+  thrown in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 57
+[23-Oct-2019 00:46:59 America/New_York] PHP Notice:  Undefined variable: path in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 37
+[23-Oct-2019 00:46:59 America/New_York] PHP Warning:  imagejpeg(/img/food/11111000.jpg): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 37
+[23-Oct-2019 00:46:59 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 58
+[23-Oct-2019 00:46:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php:58
+Stack trace:
+#0 /home/sarapxkl/public_html/api.sarafarm.io/index.php(106): modules\Food->doPost('upload', 11111000, Array, 'data:image/png;...')
+#1 {main}
+  thrown in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 58
+[23-Oct-2019 00:48:29 America/New_York] PHP Warning:  imagejpeg(/img/food/11111000.jpg): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 37
+[23-Oct-2019 00:48:29 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 58
+[23-Oct-2019 00:48:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php:58
+Stack trace:
+#0 /home/sarapxkl/public_html/api.sarafarm.io/index.php(106): modules\Food->doPost('upload', 11111000, Array, 'data:image/png;...')
+#1 {main}
+  thrown in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 58
+[23-Oct-2019 00:50:39 America/New_York] PHP Warning:  imagejpeg(/img/food/11111000.jpg): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 37
+[23-Oct-2019 00:54:30 America/New_York] PHP Warning:  imagejpeg(/home/sarapxkl/public_html/img/food//img/food/11111000.jpg): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 38
+[23-Oct-2019 00:55:35 America/New_York] PHP Warning:  imagejpeg(/home/sarapxkl/public_html/img/food/img/food/11111000.jpg): failed to open stream: No such file or directory in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/Food.php on line 38
+[23-Oct-2019 03:05:33 America/New_York] PHP Notice:  Undefined variable: food in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 115
+[23-Oct-2019 03:05:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function doPost() on null in /home/sarapxkl/public_html/api.sarafarm.io/index.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 115
+[23-Oct-2019 03:07:07 America/New_York] PHP Notice:  Undefined variable: task in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 115
+[23-Oct-2019 03:08:27 America/New_York] PHP Notice:  Undefined variable: task in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 115
+[07-Dec-2019 10:59:18 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/SummaryChart.php on line 28
+[07-Dec-2019 10:59:57 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/SummaryChart.php on line 28
+[07-Dec-2019 11:00:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function modules\getData() in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/SummaryChart.php:23
+Stack trace:
+#0 /home/sarapxkl/public_html/api.sarafarm.io/index.php(136): modules\SummaryChart->doGet(Array, Array, Array, Array)
+#1 {main}
+  thrown in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/SummaryChart.php on line 23
+[07-Dec-2019 11:01:07 America/New_York] PHP Notice:  Array to string conversion in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/SummaryChart.php on line 44
+[07-Dec-2019 11:01:07 America/New_York] PHP Notice:  Array to string conversion in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/SummaryChart.php on line 44
+[07-Dec-2019 11:01:07 America/New_York] PHP Notice:  Array to string conversion in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/SummaryChart.php on line 44
+[07-Dec-2019 11:01:07 America/New_York] PHP Notice:  Array to string conversion in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/SummaryChart.php on line 44
+[07-Dec-2019 11:01:07 America/New_York] PHP Notice:  Array to string conversion in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/SummaryChart.php on line 44
+[12-Dec-2019 01:54:01 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function modules\FoodMenu::doGet(), 1 passed in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 134 and exactly 3 expected in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodMenu.php:18
+Stack trace:
+#0 /home/sarapxkl/public_html/api.sarafarm.io/index.php(134): modules\FoodMenu->doGet(NULL)
+#1 {main}
+  thrown in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodMenu.php on line 18
+[12-Dec-2019 01:55:58 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function modules\FoodMenu::doGet(), 1 passed in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 134 and exactly 3 expected in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodMenu.php:18
+Stack trace:
+#0 /home/sarapxkl/public_html/api.sarafarm.io/index.php(134): modules\FoodMenu->doGet(NULL)
+#1 {main}
+  thrown in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodMenu.php on line 18
+[12-Dec-2019 02:14:52 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function modules\FoodMenu::doGet(), 1 passed in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 134 and exactly 3 expected in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodMenu.php:18
+Stack trace:
+#0 /home/sarapxkl/public_html/api.sarafarm.io/index.php(134): modules\FoodMenu->doGet(NULL)
+#1 {main}
+  thrown in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodMenu.php on line 18
+[12-Dec-2019 02:14:54 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function modules\FoodMenu::doGet(), 1 passed in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 134 and exactly 3 expected in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodMenu.php:18
+Stack trace:
+#0 /home/sarapxkl/public_html/api.sarafarm.io/index.php(134): modules\FoodMenu->doGet(NULL)
+#1 {main}
+  thrown in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodMenu.php on line 18
+[12-Dec-2019 02:14:55 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function modules\FoodMenu::doGet(), 1 passed in /home/sarapxkl/public_html/api.sarafarm.io/index.php on line 134 and exactly 3 expected in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodMenu.php:18
+Stack trace:
+#0 /home/sarapxkl/public_html/api.sarafarm.io/index.php(134): modules\FoodMenu->doGet(NULL)
+#1 {main}
+  thrown in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodMenu.php on line 18
+[12-Dec-2019 04:49:02 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodInfo.php on line 27
+[12-Dec-2019 04:49:37 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodInfo.php on line 27
+[12-Dec-2019 04:50:40 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/sarapxkl/public_html/api.sarafarm.io/classes/modules/FoodInfo.php on line 27
