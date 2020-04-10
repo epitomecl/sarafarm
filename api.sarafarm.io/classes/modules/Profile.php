@@ -172,8 +172,8 @@ class Profile {
 	* @param string $alias The alias name as designer
 	* @param string $email The email of user
 	* @param string $about Something about me, the user
-	* @param string $about Something about me, the user
 	* @param string $address The address of wallet
+	* @param string $file The file of profile image
 	* @param string $imageData The imageData by json foto upload
 	*/		
 	public function doPost($profileId, $firstName, $lastName, $alias, $email, $about, $address, $file, $imageData) {
